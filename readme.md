@@ -1,6 +1,6 @@
 	This is a cmd program that can retreive repositories data from github.com
 		 based on some specifics will shown below
-			you can control results with number limit, date and key word can be programing language or any thing else,
+			you can control results with number limit, date of creation and key word can be programing language or any thing else,
 			you can choose to use one, two, three or none of these filters
 	you can clone the project and run " go mod tidy " to import unexisting packeges
 	
